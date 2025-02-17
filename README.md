@@ -21,4 +21,3 @@ deploy com CI/CD e configuração de CORS.
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- H2 database e Postman 
